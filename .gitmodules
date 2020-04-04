@@ -1,0 +1,12 @@
+[submodule "ansible-role-nginx"]
+	path = ansible-role-nginx
+	url = git@github.com:geerlingguy/ansible-role-nginx.git
+[submodule "ansible-php"]
+	path = ansible-php
+	url = git@github.com:barbearclassico/ansible-php.git
+[submodule "ansible-gitolite"]
+	path = ansible-gitolite
+	url = git@github.com:barbearclassico/ansible-gitolite.git
+[submodule "ansible-gitlist"]
+	path = ansible-gitlist
+	url = git@github.com:barbearclassico/ansible-gitlist.git
